@@ -1,0 +1,23 @@
+{
+  "name": "project-node-satu",
+  "version": "1.0.0",
+  "description": "Test nodejs 12.x",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"OK\" && exit 0;"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dojongulik/project-node-satu.git"
+  },
+  "keywords": [
+    "belajar",
+    "nodejs"
+  ],
+  "author": "Garasi Ngulik <dojo@garasingulik.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dojongulik/project-node-satu/issues"
+  },
+  "homepage": "https://github.com/dojongulik/project-node-satu#readme"
+}
